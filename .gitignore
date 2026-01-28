@@ -1,4 +1,33 @@
+# R session files
 .Rproj.user
 .Rhistory
 .RData
 .Ruserdata
+
+# R environment
+.Rprofile
+.Renviron
+
+# Generated results (run analysis to regenerate)
+results/
+
+# R package management
+renv/library/
+renv/staging/
+renv/.lock
+
+# Common OS files
+.DS_Store
+Thumbs.db
+
+# Editor/IDE files
+*.swp
+*.swo
+*~
+.vscode/
+.idea/
+
+# Temporary files
+*.tmp
+*.temp
+*.log
